@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kasi Viswanathan
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me on kasivis0011@gmail.com
 
